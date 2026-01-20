@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT_lllegaltriangleexception/BT_lllegaltriangleexception.iml" filepath="$PROJECT_DIR$/BT_lllegaltriangleexception/BT_lllegaltriangleexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson15.iml" filepath="$PROJECT_DIR$/.idea/Lesson15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-Debug/TH-Debug.iml" filepath="$PROJECT_DIR$/TH-Debug/TH-Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-Exception/TH-Exception.iml" filepath="$PROJECT_DIR$/TH-Exception/TH-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-NumberFormatException/TH-NumberFormatException.iml" filepath="$PROJECT_DIR$/TH-NumberFormatException/TH-NumberFormatException.iml" />
+    </modules>
+  </component>
+</project>
